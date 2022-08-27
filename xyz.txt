@@ -1,0 +1,28 @@
+UserRecord {
+    uid: '1pqVMY4NHzfAjzLTAViUQMpOXOG2',
+    email: 'user@gmail.com',
+    emailVerified: false,
+    displayName: undefined,
+    photoURL: undefined,
+    phoneNumber: undefined,
+    disabled: false,
+    metadata: UserMetadata {
+      creationTime: 'Mon, 07 Feb 2022 19:59:38 GMT',
+      lastSignInTime: null,
+      lastRefreshTime: null
+    },
+    providerData: [
+      UserInfo {
+        uid: 'user@gmail.com',
+        displayName: undefined,
+        email: 'user@gmail.com',
+        photoURL: undefined,
+        providerId: 'password',
+       phoneNumber: undefined
+     }
+    ],
+    passwordHash: undefined,
+    passwordSalt: undefined,
+    tokensValidAfterTime: 'Mon, 07 Feb 2022 19:59:38 GMT',
+  tenantId: undefined
+}
